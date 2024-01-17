@@ -35,7 +35,7 @@ export default function Component() {
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl font-bold text-gray-200">Contact Us</h1>
             <p className="mt-4 text-sm text-gray-400">
-              We're here to help and answer any question you might have. We look forward to hearing from you.
+              We are here to help and answer any question you might have. We look forward to hearing from you.
             </p>
           </div>
         </section>
