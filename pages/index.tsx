@@ -59,7 +59,7 @@ export default function Component() {
                 alt="Chatbot Widget"
                 className="w-full h-64 object-cover rounded-lg"
                 height="200"
-                src="/placeholder.svg"
+                src="/chatbot.jpg"
                 style={{
                   aspectRatio: "200/200",
                   objectFit: "cover",
@@ -76,7 +76,7 @@ export default function Component() {
                 alt="Client Portal"
                 className="w-full h-64 object-cover rounded-lg"
                 height="200"
-                src="/placeholder.svg"
+                src="/chatbot.jpg"
                 style={{
                   aspectRatio: "200/200",
                   objectFit: "cover",
